@@ -36,4 +36,7 @@
  (30). git push					  Para dejar fuera la etiqueta en SourceTree con tal de no 
 						  marcar que se suban las etiquetas es suficiente.
  (31). git checkout feature/Ticket222
- (32). git merge. 				  Fusiono directamente develop en feature/Ticket222                      
+ (32). git merge. 				  Fusiono directamente develop en feature/Ticket222
+ (34). git commit
+ (35). merge 					  Al mergearlo en develop no me aparece todo, por lo que resuelvo 						  conflictos y vuelvo a mergear
+                   
