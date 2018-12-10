@@ -25,4 +25,8 @@
  (19). git checkout develop
  (20). git branch feature/Ticket222
  (21). git checkout feature/Ticket220
- (22). merge.                                    Fast-forward
+ (22). git merge.                                 Fast-forward
+ (23). git commit
+ (24). git checkout develop
+ (25). git merge    				  Recursiva, sin conflictos
+ (26). git merge				  Recursiva, con conflictos que resuelvo                         
