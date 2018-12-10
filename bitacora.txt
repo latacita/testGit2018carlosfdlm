@@ -29,4 +29,11 @@
  (23). git commit
  (24). git checkout develop
  (25). git merge    				  Recursiva, sin conflictos
- (26). git merge				  Recursiva, con conflictos que resuelvo                         
+ (26). git merge				  Recursiva, con conflictos que resuelvo
+ (28). git commit
+ (29). git tag Step29.             		  No estoy seguro de como hace con comandos, ya que con el 
+						  SourceTree creas sobre el propio commit la etiqueta
+ (30). git push					  Para dejar fuera la etiqueta en SourceTree con tal de no 
+						  marcar que se suban las etiquetas es suficiente.
+ (31). git checkout feature/Ticket222
+ (32). git merge. 				  Fusiono directamente develop en feature/Ticket222                      
