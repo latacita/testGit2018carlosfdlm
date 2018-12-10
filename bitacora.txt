@@ -4,8 +4,8 @@
 %% Alumno (Apellidos, Nombre): Fernández de la Mora, Carlos         %%                          
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                       		Notas
+====== ============================ 		================================
  (1).  git clone URL
  (2).  git add bitacora.txt
  (3).  git commit
@@ -13,3 +13,9 @@
  (5).  git commit
  (6).  git branch develop
  (7).  git checkout -b feature/Ticket220
+ (8).  git commit
+ (9).  git checkout develop
+ (10). git checkout -b feature/Ticket221
+ (11). git checkout feature/Ticket220.  	 Da conflicto, por lo que hago un stash de los 	
+						 cambios ya que no queremos hacer el commit.
+ (12). git stash + checkout feature/Ticket220
