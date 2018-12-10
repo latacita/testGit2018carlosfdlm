@@ -10,3 +10,6 @@
  (2).  git add bitacora.txt
  (3).  git commit
  (4).  git push
+ (5).  git commit
+ (6).  git branch develop
+ (7).  git checkout -b feature/Ticket220
