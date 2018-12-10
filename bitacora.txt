@@ -13,9 +13,16 @@
  (5).  git commit
  (6).  git branch develop
  (7).  git checkout -b feature/Ticket220
- (8).  git commit
- (9).  git checkout develop
- (10). git checkout -b feature/Ticket221
- (11). git checkout feature/Ticket220.  	 Da conflicto, por lo que hago un stash de los 	
+ (9).  git commit
+ (10). git checkout develop
+ (11). git checkout -b feature/Ticket221
+ (12). git checkout feature/Ticket220.  	 Da conflicto, por lo que hago un stash de los 	
 						 cambios ya que no queremos hacer el commit.
- (12). git stash + checkout feature/Ticket220
+ (13). git stash + checkout feature/Ticket220
+ (15). git commit
+ (16). git checkout feature/Ticket221
+ (18). git commit
+ (19). git checkout develop
+ (20). git branch feature/Ticket222
+ (21). git checkout feature/Ticket220
+ (22). merge.                                    Fast-forward
